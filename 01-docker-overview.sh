@@ -21,6 +21,7 @@
 #		~/Library/Containers/com.docker.docker/Data/vms/0/data
 
 #	<(View the size of (running) images with: 'docker container ls -s')>
+#	View the size of <available> images with: 'docker image ls'
 
 
 #	<(running containers requires Docker <Desktop/service> to be running)>
